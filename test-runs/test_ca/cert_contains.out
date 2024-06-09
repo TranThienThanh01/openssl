@@ -1,0 +1,56 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            2d:e5:a2:06:7d:e2:df:23:29:78:82:db:83:45:b3:e0:24:58:bb:80
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=AU, O=Dodgy Brothers, CN=Dodgy CA
+        Validity
+            Not Before: Jun  7 14:34:43 2024 GMT
+            Not After : Jun  7 14:34:43 2025 GMT
+        Subject: CN=x509-check-test
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:9d:ea:3a:60:16:23:3f:65:6e:9d:08:99:44:23:
+                    19:8a:93:ba:c7:ec:c4:4b:f7:7c:16:df:6a:39:76:
+                    e4:f0:b5:3d:5c:b3:fc:be:ca:57:de:cb:49:79:b5:
+                    80:73:18:cc:63:50:f3:5e:60:64:c1:aa:2b:b3:ea:
+                    e7:95:c8:cb:db:7b:7c:32:99:73:e9:fb:3c:e8:6a:
+                    ad:e2:7f:72:72:71:bf:b5:82:ea:d2:ca:24:29:17:
+                    a4:f5:3c:b9:9f:24:38:10:41:3d:17:9c:8e:ea:47:
+                    01:c8:e4:52:53:bc:a3:3d:9a:9b:f7:88:aa:21:06:
+                    c7:93:fd:af:32:7d:d9:36:ef:31:58:ad:23:19:8d:
+                    f6:aa:65:cf:b4:6b:5f:1b:1e:2f:d2:80:d3:77:e8:
+                    b8:fe:be:73:dc:b3:60:f3:4b:cc:a6:04:9d:74:66:
+                    ae:a2:73:2e:b1:2f:7d:2c:1c:32:8f:38:a2:ab:0f:
+                    cf:84:27:ab:2e:52:6e:42:a4:b2:f8:37:a8:cf:3a:
+                    69:3d:0e:3e:d7:42:fd:98:c2:85:f6:4b:46:2c:e9:
+                    d1:69:1e:e1:81:27:53:67:80:15:bf:d1:99:bd:a2:
+                    c7:83:3b:1c:6a:a6:53:c6:21:86:bc:9c:de:c1:22:
+                    b4:f0:00:91:21:92:62:93:12:2f:4f:f0:03:c8:8b:
+                    a0:d5
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Subject Key Identifier: 
+                BF:D8:68:6F:B9:F3:A1:9A:3C:92:2E:40:E7:F8:72:A8:92:89:37:7E
+            X509v3 Authority Key Identifier: 
+                B4:11:33:F1:D7:E2:5E:F7:53:9E:20:22:10:4F:86:06:BF:1F:C9:5E
+    Signature Algorithm: sha1WithRSAEncryption
+    Signature Value:
+        36:a7:49:16:49:1b:26:20:69:03:9f:22:7b:c4:9c:4f:97:36:
+        68:58:c1:dc:cc:b1:c1:7f:03:67:03:d4:6f:7f:c4:a6:be:4c:
+        2a:fe:b4:a6:86:2f:e1:ec:8b:ff:2b:be:31:71:1c:b5:a9:43:
+        bb:e7:15:a2:0c:8a:4c:4f:13:39:7d:16:4c:65:49:3f:40:0c:
+        b1:8b:5a:14:d2:f7:13:4e:fc:ed:9b:45:c3:fb:c7:4e:cd:d5:
+        bf:7b:3c:1a:56:1e:fe:07:34:59:f2:5d:ee:15:f8:60:be:89:
+        36:97:b9:6b:10:ba:1a:bc:d8:82:f4:9e:8e:54:ba:c1:2e:2a:
+        a8:36:ae:a5:b4:c6:c3:5e:c5:10:b3:8a:42:8b:9e:03:0c:9b:
+        3f:2d:23:8b:2f:8e:44:3e:bc:4c:65:aa:06:3e:26:97:fd:21:
+        9f:b8:6a:b3:9a:09:07:92:05:08:8e:e1:87:99:f6:1d:c3:7d:
+        0e:99:46:0c:d7:2f:8a:f2:f0:b3:ac:b7:be:ff:89:31:41:2e:
+        00:25:59:8a:bb:47:dc:eb:0a:bb:6e:0c:04:21:4b:2e:d7:41:
+        aa:71:00:c0:2e:1a:78:c1:99:24:8f:a4:ae:b0:ef:51:61:1f:
+        c5:90:2e:9d:31:ad:b3:4d:b9:e6:93:48:6a:1d:10:0e:0c:ec:
+        2c:b0:bb:8c
